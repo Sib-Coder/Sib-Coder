@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**Sib-Coder/Sib-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 About Me:
+- 22 y.o.
+- Student @ TSU
+- Golang developer 
+- CTF player @ [SiBears](https://gitlab.com/sibears) &&
+@ [QarabagTeam](https://github.com/Qarabag-Team)
 
-Here are some ideas to get you started:
+# 📱 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Telegram](https://t.me/sib_coder)
+- [LinkedIn](https://www.linkedin.com/in/sib-coder/)
+
+
+# 💻 Tech Stack:
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,cpp,c," />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vim,idea,vscode" />
+  </a>
+</p>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,linux" />
+  </a>
+</p>
+
+
+
