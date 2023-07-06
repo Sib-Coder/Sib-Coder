@@ -1,4 +1,4 @@
-[![Header](https://github.com/Sib-Coder/Sib-Coder/blob/main/all_logo/neadlogo.jpg)]
+![Header](https://github.com/Sib-Coder/Sib-Coder/blob/main/all_logo/neadlogo.jpg)
 # 👾 About Me:
 - 22 y.o.
 - Student @ TSU
