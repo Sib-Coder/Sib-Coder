@@ -15,7 +15,7 @@
 # 💻 Tech Stack:
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,cpp,c," />
+    <img src="https://skillicons.dev/icons?i=go,py,c,cpp,html,css" />
   </a>
 </p>
 <p>
