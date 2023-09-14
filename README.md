@@ -3,8 +3,7 @@
 - 22 y.o.
 - Student @ TSU
 - Golang developer 
-- CTF player @ [SiBears](https://gitlab.com/sibears) &&
-@ [QarabagTeam](https://github.com/Qarabag-Team)
+- CTF player @ [SiBears](https://gitlab.com/sibears) 
 
 # 📱 Socials:
 
