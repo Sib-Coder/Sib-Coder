@@ -2,7 +2,7 @@
 # 👾 About Me:
 - 22 y.o.
 - Student @ TSU
-- Golang developer 
+- AppSec 
 - CTF player @ [SiBears](https://gitlab.com/sibears) 
 
 # 📱 Socials:
