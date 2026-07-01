@@ -1,9 +1,9 @@
 ![Header](https://github.com/Sib-Coder/Sib-Coder/blob/main/all_logo/neadlogo.jpg)
 # 👾 About Me:
-- 22 y.o.
-- Student @ TSU
-- AppSec 
-- CTF player @ [SiBears](https://gitlab.com/sibears) 
+- 25 y.o.
+- AppSec
+- Ex-Student @ TSU
+
 
 # 📱 Socials:
 
